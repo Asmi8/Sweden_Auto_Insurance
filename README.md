@@ -105,3 +105,13 @@ Clear evaluation metrics
 Visual explanation of model performance
 
 Demonstrates practical use of scikit‑learn
+
+├── Sweden data.csv
+├── Linear_Regression.ipynb
+└── README.md
+
+👤 Author
+
+Asmi Panigrahi  
+Machine Learning & Data Analysis
+Focused on building interpretable models for real‑world datasets.
